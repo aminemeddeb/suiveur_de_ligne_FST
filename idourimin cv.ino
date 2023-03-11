@@ -12,6 +12,7 @@ int c8 = A2;
 int c9 = 11;
 int ena = 5;
 int enb = 10;
+int y;
 int star=0;
 //////
 int angle;
