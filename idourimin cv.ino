@@ -1,3 +1,4 @@
+//douraimin melloul
 int mr1=9;//imin l9odem
 int mr0=8;//imin lteli
 int ml1=6;//issar l9odem
@@ -24,7 +25,7 @@ int dd1=200;
 int bleu=0;
 int comp=1;
 int d=40;
-float bms = 180;
+float bms = 160;
 float rms;
 float lms;
 float kp =8.5;
